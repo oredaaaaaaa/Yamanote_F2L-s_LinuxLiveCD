@@ -1,0 +1,2 @@
+# Yamanote_F2L-s_LinuxLiveCD
+Yamanote_F2L専用ArchLinuxのライブCDを構築するツール
